@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @snehasishrath
-- 👀 I’m interested in Azure, AWS, DevOps & Automation
-- 🌱 I’m currently learning DevOps tools.
-- 💞️ I’m looking to collaborate on Linkedin
-- 📫 How to reach me snehasish.rath@gmail.com
+# Snehasish's Cloud Architecture Portfolio
 
-<!---
-snehasishrath/snehasishrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome! I'm Snehasish, a Cloud Solution Architect specializing in designing secure, scalable, and cost-effective cloud solutions.
+
+## 🔧 Key Repositories
+
+## 📜 Certifications
+- AWS Certified Solutions Architect – Associate  
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: DevOps Engineer Expert
+- Microsoft Certified: Cybersecurity Architect Expert
+- Microsoft Certified: Azure Security Engineer Associate
+- Microsoft Certified: Azure Administrator Associate
+- Microsoft Certified: Azure AI Fundamentals
+- Microsoft Certified: Power Platform Fundamentals
+- Microsoft Certified Professional
+- Google Cloud: Associate Cloud Engineer
+
+## 🌐 Links
+- [LinkedIn](https://www.linkedin.com/in/snehasishrath/)  
+- [Certification Portfolio](https://www.credly.com/users/snehasish-rath)  
