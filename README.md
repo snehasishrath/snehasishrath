@@ -50,6 +50,7 @@ Open to collaborations, thought leadership, and networking—let’s connect and
 ---
 
 ## 📜 Certifications
+- **Credly: [https://www.credly.com/users/snehasish-rath](https://www.credly.com/users/snehasish-rath)
 
 ---
 
