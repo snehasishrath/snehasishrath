@@ -46,6 +46,7 @@ Open to collaborations, thought leadership, and networking—let’s connect and
 - **Performance Optimization**: Cost management, scaling strategies, cloud-native design
 - **Networking & Middleware**: [Relevant tools]
 - **Scripting & Programming**: Python, PowerShell, Bash
+- **Azure Kubernetes Solution (AKS)
 
 ---
 
