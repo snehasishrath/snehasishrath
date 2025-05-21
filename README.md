@@ -47,6 +47,7 @@ Open to collaborations, thought leadership, and networking—let’s connect and
 - **Networking & Middleware**: [Relevant tools]
 - **Scripting & Programming**: Python, PowerShell, Bash
 - **Azure Kubernetes Solution**: (AKS)
+- **Azure Virtual Desktop Solution**: (AVD)
 
 ---
 
